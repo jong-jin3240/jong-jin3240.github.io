@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "파이썬 프로그래밍 "
+title                    : "파이썬은 무적이고 김종진은 신이다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김종진"
