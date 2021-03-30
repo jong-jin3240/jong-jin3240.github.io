@@ -1,5 +1,5 @@
 ---
-layout : 
+layout : single
 title : "문자열 학습 Q6"
 ---
 
