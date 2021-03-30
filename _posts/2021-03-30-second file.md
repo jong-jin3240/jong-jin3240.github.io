@@ -20,4 +20,8 @@ x=int(len(idnum)/2)
 
 print(idnum[x])
 
+식을 입력해주세요:123456789
+5
+
+
 ~~~
